@@ -2,7 +2,7 @@
 
 ![Career Transition](https://miro.medium.com/max/1400/1*nTBhjqhauJAsZQVxvBO_qw.jpeg)
 
-<div align="justify">I am a chemical engineer who is in the career transition. I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and enjoy trying new technologies whenever I have time and learning something new every day.</div>
+<div align="justify">I'm working as a data analytics specialist while pursuing my master's in Big Data Analytics. I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and enjoy trying new technologies whenever I have time and learning something new every day.</div>
 
 ## Currently Building stuff with
 
