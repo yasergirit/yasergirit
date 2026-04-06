@@ -93,9 +93,6 @@ echo "Pick your protocol 👇"
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasergirit&style=flat-square&color=0d1117&label=PROFILE+VIEWS" />
-</p>
 
 <p align="center">
   <code>// keep building. keep shipping. keep learning.</code>
