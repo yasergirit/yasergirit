@@ -24,7 +24,7 @@ $ cat mission.txt
 ┌──────────────────┬─────────────────────────┬──────────────┬────────────┐
 │ PROJECT          │ DESCRIPTION             │ STACK        │ STATUS     │
 ├──────────────────┼─────────────────────────┼──────────────┼────────────┤
-│ Sofi App         │ AI-powered companion    │ Kotlin       │ ● LIVE     │
+│ Sofi App         │ Spiritual companion     │ Kotlin       │ ● LIVE     │
 │ Sky Rush         │ Fast-paced arcade game  │ Kotlin       │ ● BETA     │
 │ DuoDesk          │ Find work partner       │ Kotlin       │ ● DEV      │
 │ Tony AI          │ Utility toolkit app     │ Kotlin       │ ● LIVE     │
