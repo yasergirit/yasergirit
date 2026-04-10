@@ -4,7 +4,7 @@
 
 ```bash
 $ whoami
-> indie app developer & data analyst
+> indie hacker & data analyst
 
 $ location
 > Istanbul, Turkey 🇹🇷
