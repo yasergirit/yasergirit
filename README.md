@@ -69,8 +69,6 @@ I care about more than model scores: a useful analysis should be reproducible, u
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yasergirit-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasergirit/)
 [![GitHub](https://img.shields.io/badge/GitHub-yasergirit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yasergirit)
-[![Website](https://img.shields.io/badge/Website-about.me-00A98F?style=flat-square&logo=aboutdotme&logoColor=white)](https://about.me/yasergirit)
-
 <p align="center">
   <code>data → insight → decision</code>
 </p>
