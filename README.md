@@ -31,6 +31,15 @@ My focus is on **advanced analytics, machine learning, experimentation, data qua
 
 ## Featured projects
 
+### [Banking Conversational AI & Dialogue Analytics](https://github.com/yasergirit/Banking-Conversational-AI-Dialogue-Analytics)
+
+An NLP and SQL analytics project focused on banking virtual assistants, intent recognition, and customer dialogue optimization.
+
+- Classified **77 banking intents**, achieving **89.36% test accuracy and Macro F1** using hybrid TF-IDF and Logistic Regression
+- Compared NLP approaches and analyzed intent confusion, classification errors, and confidence-based fallback strategies
+- Achieved **96.43% selective accuracy at 72.05% coverage** in offline fallback evaluation
+- Built SQL and DuckDB analytics to evaluate chatbot performance, customer journey friction, and self-service resolution using synthetic conversation data
+
 ### [Bank Campaign Decision Engine](https://github.com/yasergirit/bank-campaign-decision-engine)
 
 A decision-system portfolio project for bank marketing data.
